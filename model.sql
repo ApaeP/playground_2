@@ -1,1 +1,1 @@
-SELECT * FROM table
+SELECT users.name FROM table
